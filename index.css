@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/f1/2a/4c/f12a4c0d6fd6776dd37ca7145f7db8d8.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.container {
+    display: flex;
+    justify-content: center;
+    height: calc(100vh - 20px);
+    align-items: center;
+  }
+
+  .card {
+    background: #2a2a2a;
+    border-radius: 7px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    width: 400px;
+    max-width: 100%;
+    text-align: center;
+  }
